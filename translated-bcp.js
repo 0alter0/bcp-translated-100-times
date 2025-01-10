@@ -166,7 +166,7 @@
                                         ctrl: !0,
                                         key: "x"
                                     }
-                                ], `${[e && "Ctrl", t && "Shift", a && "Alt", o && o.toUpperCase()].filter(Boolean).join(" + ")} to hide | ${[r && "Ctrl", i && "Shift", n && "Alt", s && s.toUpperCase()].filter(Boolean).join(" + ")} for quick disable Click and drag here`),
+                                ], `${[e && "Do something", t && "The introduction is below", a && "Incident police", o && o.toUpperCase()].filter(Boolean).join(" + ")} Mykola: | ${[r && "Cook it", i && "Bricks", n && "a pendant.", s && s.toUpperCase()].filter(Boolean).join(" + ")} Click and drag to close immediately.`),
                             update: ({
                                 ctrl: e,
                                 shift: t,
@@ -183,7 +183,7 @@
                             } = {
                                     ctrl: !0,
                                     key: "x"
-                                }) => m.innerText = `${[e && "Ctrl", t && "Shift", a && "Alt", o && o.toUpperCase()].filter(Boolean).join(" + ")} to hide | ${[r && "Ctrl", i && "Shift", n && "Alt", s && s.toUpperCase()].filter(Boolean).join(" + ")} for quick disable Click and drag here`
+                                }) => m.innerText = `${[e && "to the world", t && "can be used", a && "Alt", o && o.toUpperCase()].filter(Boolean).join(" + ")} Even though I'm scared. | ${[r && "morning*", i && "Noah was married.", n && "Be a batsman", s && s.toUpperCase()].filter(Boolean).join(" + ")} Quickly drag and drop the results.`
                         }), l("div", {
                         id: "credits",
                         style: {
